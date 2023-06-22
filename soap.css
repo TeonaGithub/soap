@@ -1,7 +1,7 @@
 body {background-image: url(soap.png); background-size:cover; background-repeat:no-repeat; margin: 0;}
 *{box-sizing: border-box;}
 nav { width: 100%; padding-top: 30px; padding-left: 1000px; }
-a {color: #964A7A; font-size: 24px;text-decoration: none;margin-left: 50px; }
+a {color: #964A7A; font-size: 24px;text-decoration: none;margin-left: 27px; }
 img{float: left; margin-left: 60px; margin-top:  23px;}
 div {margin-top: 190px; margin-left: 144px;line-height:  64px;}
 strong{font-size: 36px; color: #964A7A;}
